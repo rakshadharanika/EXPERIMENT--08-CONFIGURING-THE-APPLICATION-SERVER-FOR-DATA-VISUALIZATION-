@@ -1,4 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+### NAME   : V RAKSHA DHARANIKA
+### REG NO  : 212223230167
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
@@ -30,7 +32,9 @@ As the application server market matures, high performance becomes a stronger cr
 ## OUTPUT 
  
 ![WhatsApp Image 2024-11-13 at 11 32 31_3839892f](https://github.com/user-attachments/assets/b9b4a746-ee2f-45c2-97bf-5d0331682606)
+![WhatsApp Image 2024-11-13 at 11 38 28_1493f20b](https://github.com/user-attachments/assets/db754d87-8cc1-4f05-b616-d5bf50d8b913)
 
+![WhatsApp Image 2024-11-13 at 11 39 59_8762475a](https://github.com/user-attachments/assets/2b2b24ac-8c02-46d5-835f-fbc1fa80fb17)
 
 
 ## Results: 
